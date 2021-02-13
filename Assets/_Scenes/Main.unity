@@ -178,6 +178,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4575868670091367342, guid: 80e4aaacd0d308c418ae8839a5a0c662, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: baf24ea3bb151964fab09d0f4f238f57, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80e4aaacd0d308c418ae8839a5a0c662, type: 3}
 --- !u!1 &427017908
@@ -311,6 +315,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6749111449386582303, guid: fde16ff67ba7e624f96b163011848739, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: baf24ea3bb151964fab09d0f4f238f57, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fde16ff67ba7e624f96b163011848739, type: 3}
 --- !u!1 &705507993
@@ -670,6 +678,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile1
       objectReference: {fileID: 0}
+    - target: {fileID: 6749111449386582303, guid: fde16ff67ba7e624f96b163011848739, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: baf24ea3bb151964fab09d0f4f238f57, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fde16ff67ba7e624f96b163011848739, type: 3}
 --- !u!1001 &1162891642
@@ -727,6 +739,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4575868670091367342, guid: 80e4aaacd0d308c418ae8839a5a0c662, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: baf24ea3bb151964fab09d0f4f238f57, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80e4aaacd0d308c418ae8839a5a0c662, type: 3}
 --- !u!1001 &3008534095541177868
